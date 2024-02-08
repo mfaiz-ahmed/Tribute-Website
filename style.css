@@ -1,0 +1,33 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+html{font-size: 62.5%;}
+
+
+.container{background-color: #e5e5fd;
+border: 10px solid #000022;}
+
+.d-flex{display: flex;
+justify-content: flex-start;
+flex-wrap: wrap;}
+
+
+.img{margin-top: 100px;
+    margin-left: 100px;
+    border: 5px solid #a7a898; 
+    border-radius: 50%;
+    width: 300px;}
+
+    .heading{color: #000022;
+        position: fixed;
+        top: 300px;
+        right: 285px;
+        font-size: 5rem;
+    }
+
+
+    .year{position: fixed;
+    top: 355px;
+right: 285px;
+font-size: 3rem;}
