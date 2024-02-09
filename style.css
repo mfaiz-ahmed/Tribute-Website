@@ -13,9 +13,17 @@ border-radius: 60%;}
 color: #020523;
 margin-top: 200px;}
 
-.year{font-family:  Archivo Black;
-    font-size: 3rem;
-    text-align: right;
-margin-right: 60px;
-margin-top: -15px;}
+.year{font-family: Archivo black;
+font-size: 3rem;
+color: black;
+margin-bottom:100px;
+margin-left: 320px;}
 
+
+
+.name{font-size: 5rem;
+color: black;
+font-family: Permanent Marker;
+margin-right:500px;
+margin-left: -600px;
+margin-top: 200px;}
