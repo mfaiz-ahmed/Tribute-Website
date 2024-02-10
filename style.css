@@ -1,43 +1,25 @@
 html{font-size: 62.5%;}
 
+body{margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: #e5e5fd;}
 
-.border-body{border:10px solid #031531;}
-
-.image{width: 300px;
-border: 3px solid #a9ad9a;
-border-radius: 60%;}
-
-
-.head{font-family: Archivo Black;
-    font-size: 6rem;
-color: #031531;
-margin-top: 200px;}
-
-.year{font-family: Archivo black;
-font-size: 3rem;
-color: black;
-margin-bottom:100px;
-margin-left: 320px;}
+.body-border{border: 10px solid #011230;}
 
 
+.head{font-size: 6rem;
+font-family: Archivo Black;
+color: #011230;}
 
-.name{font-size: 5rem;
-color: black;
-font-family: Permanent Marker;
-}
-
-
-.txt{font-size: 3rem;}
+.year{font-size: 4rem;
+text-align: right;}
 
 
-.list{margin-left: 100px;
-font-size: 2rem;
-color: black;
-font-weight: 400;}
+.img-border{border: 5px solid #afb29f;}
+
+.name{font-size: 4rem;
+font-family: permanent marker;}
 
 
-.footer{font-size: 2rem;
-text-align: end;}
-
-
-.link{color: #031531;}
+.margin{margin-left: 170px;}
