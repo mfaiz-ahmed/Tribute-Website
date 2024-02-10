@@ -1,11 +1,12 @@
-html{font-size: 62.5%;}
+html{font-size: 62.5%;
+background-color: white;
+border: 10px solid #011230;}
 
 body{margin: 0;
 padding: 0;
-box-sizing: border-box;
-background-color: #e5e5fd;}
+box-sizing: border-box;}
 
-.body-border{border: 10px solid #011230;}
+.body{background-color: #e5e5fd}
 
 
 .head{font-size: 6rem;
@@ -22,4 +23,5 @@ text-align: right;}
 font-family: permanent marker;}
 
 
-.margin{margin-left: 170px;}
+.margin{margin-left: 140px;}
+
